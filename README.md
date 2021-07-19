@@ -15,3 +15,7 @@ Adding more text to a different secion
 Sample website with plenty of files for demos.
 
 ## How to Continue
+
+## Copyright
+
+2021
