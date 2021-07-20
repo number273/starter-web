@@ -20,4 +20,4 @@ Some Text
 
 ## Copyright
 
-2021
+2021 All rights reserved
