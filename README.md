@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work together.
 
 ## Introduction
 
-Some more changes
+Moar! Some more changes
 
 ## Deployment
 
